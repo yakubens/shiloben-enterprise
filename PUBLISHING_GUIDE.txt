@@ -1,0 +1,15 @@
+SHILOBEN ENTERPRISE - GITHUB PAGES PUBLICATION GUIDE
+
+1. Confirm all advertised cement brands, grades, phone numbers, nationwide supply and delivery claims.
+2. This pack has been normalized for cross-platform ZIP extraction and large photographs compressed to WebP for quicker mobile loading. All website files are at the ZIP root with images/ as a normal folder.
+3. Back up your existing repository files. Open https://github.com/yakubens/shiloben-enterprise (sign in to the right GitHub account).
+4. Click Add file > Upload files. UNZIP this archive first and upload its CONTENTS, including images/ and all HTML/CSS/JS files. Do not upload just the ZIP.
+5. Commit changes to main (or use a separate branch and review a pull request first).
+6. Repository Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+7. When deployed, test https://yakubens.github.io/shiloben-enterprise/ using a phone and laptop. Test navigation, cement quotation, truck hire, WhatsApp and all images.
+8. OPTIONAL domain: After registering/confirming you own a SHILOBEN domain, verify domain ownership in your GitHub profile Settings > Pages, then set the repository Pages Custom domain before adding DNS. Follow GitHub official instructions: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+9. Do not remove email/MX records when configuring DNS. Enable Enforce HTTPS when available.
+
+IMPORTANT: This is a static enquiry website. WhatsApp messages must be manually sent by customers, and the site has no checkout or inventory management integration. The generated truck artwork is illustrative.
+
+Reviewed on 2026-10-14: 10 HTML pages, local file references checked, JS syntax checked. Browser rendering and live WhatsApp delivery need owner testing after upload.
